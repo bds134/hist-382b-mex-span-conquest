@@ -223,6 +223,8 @@ All written assignments will be submitted using **Respondus LockDown Browser**, 
 
 Students will have access to the course GitHub repository throughout the semester, which contains detailed assignment descriptions and PDF versions of all course readings. This repository serves as a comprehensive resource for assignment preparation and research.
 
+**Course GitHub Repository**: [https://github.com/bds134/hist-382b-mex-span-conquest](https://github.com/bds134/hist-382b-mex-span-conquest)
+
 ### Notes Policy for Written Assignments
 
 Students may bring printed or handwritten notes to assist with all written assignments. Notes must be on paper and, if multiple sheets are used, must be stapled together or compiled in a notebook or binder. Only point-form notes, outlines, citations, and similar textual items are permitted; **notes written in prose are NOT allowed**. All notes will be collected by the instructor at the completion of each assignment.
