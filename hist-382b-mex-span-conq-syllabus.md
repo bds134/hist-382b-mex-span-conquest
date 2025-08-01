@@ -50,8 +50,8 @@ Readings will be accessed through Brightspace and must be read by 9 AM on Perusa
 - Perusall 4 due: October 7
 - Perusall 5 due: October 16
 - Perusall 6 due: October 23
-- Perusall 7 due: October 9
-- Perusall 8 due: October 23
+- Perusall 7 due: November 6
+- Perusall 8 due: November 20
 
 **Grading Criteria:**
 
@@ -80,8 +80,8 @@ Students will write two in-class essays, each worth 10% of your final grade. You
 
 **Essay Due Dates:**
 
-- First interpretive essay: September 25
-- Second interpretive essay: October 30
+- First interpretive essay: October 7
+- Second interpretive essay: December 2
 
 The essay questions will be made available to students several days before the in-class essay and will ask you to think broadly and critically about a defined collection of readings that you have already read and commented upon in Perusall. You may bring printed or handwritten notes to assist with composition. Notes must be on paper and, if multiple sheets are used, must be stapled together or compiled in a notebook or binder. Only point-form notes, outlines, citations, and similar textual items are permitted; notes written in prose are NOT allowed. All notes will be collected by the instructor at the completion of the assignment.
 
@@ -102,8 +102,8 @@ You are also allowed to bring print copies (photocopies or published print mater
 
 In 90 minutes of supervised class time, you will write an analysis of a primary document from the Spanish Conquest period. This assignment calls for sustained analysis of your chosen primary source, demonstrating how this document can illuminate broader historical questions about the conquest.
 
-**First Submission Due Date: November 13**
-
+- **First Submission Due Date: November 13**
+- **Revised Submission Due Date: December 4**
 
 After the first submission (completed in class using Respondus LockDown Browser), the instructor will transfer your original submission to a Google Doc, provide written feedback, and share the document with you. You are required to revise your paper directly in the same Google Doc. When your revision is complete, you must upload the revised Google Doc to the appropriate submission module in Brightspace by **December 4**.
 
@@ -136,32 +136,32 @@ You are also allowed to bring print copies (photocopies or published print mater
 | 3 | Aug 26 | Tue | The Spanish expansion | | |
 | 4 | Aug 28 | Thu | The 'altepetl'; The Aztec 'empire' and its enemies | | Perusall 1 due |
 | - | Sep 2 | Tue | **NO CLASS** | | Monday classes meet (Labor Day) |
-| 5 | Sep 4 | Thu | **Lab 1** | | Lab 1 |
-| 6 | Sep 9 | Tue | The Black Legend | | Perusall 2 due |
-| 7 | Sep 11 | Thu | **Lab 2** | | Lab 2 |
-| 8 | Sep 16 | Tue | Native religion | | Perusall 3 due |
-| 9 | Sep 18 | Thu | **Lab 3** | | Lab 3 |
+| 5 | Sep 4 | Thu | The Black Legend | | Perusall 2 due |
+| 6 | Sep 9 | Tue | | | |
+| 7 | Sep 11 | Thu | **Lab 1** | | Lab 1 |
+| 8 | Sep 16 | Tue | | | Perusall 3 due |
+| 9 | Sep 18 | Thu | **Lab 2** | | Lab 2 |
 | - | Sep 23 | Tue | **NO CLASS** | | Rosh Hashanah |
-| 10 | Sep 25 | Thu | **In-Class Essay 1** | | First interpretive essay |
-| 11 | Sep 30 | Tue | **Lab 4** | | Lab 4 |
+| 10 | Sep 25 | Thu | | | |
+| 11 | Sep 30 | Tue | | | |
 | - | Oct 2 | Thu | **NO CLASS** | | Yom Kippur |
-| 12 | Oct 7 | Tue | Teaching Christianity; Visual Culture and Maps | | Perusall 4 due |
-| 13 | Oct 9 | Thu | Race and Mestizaje | | Perusall 7 due |
-| 14 | Oct 14 | Tue | **Lab 5** | | Lab 5 |
-| 15 | Oct 16 | Thu | Anti-Idolatry Campaigns | | Perusall 5 due |
-| 16 | Oct 21 | Tue | **Lab 6** | | Lab 6 |
-| 17 | Oct 23 | Thu | Politics, Economy, Society | | Perusall 6 due, Perusall 8 due |
+| 12 | Oct 7 | Tue | **In-Class Essay 1** | | First interpretive essay, Perusall 4 due |
+| 13 | Oct 9 | Thu | Teaching Christianity; Visual Culture and Maps | | |
+| 14 | Oct 14 | Tue | | | |
+| 15 | Oct 16 | Thu | **Lab 3** | | Lab 3, Perusall 5 due |
+| 16 | Oct 21 | Tue | | | |
+| 17 | Oct 23 | Thu | **Lab 4** | | Lab 4, Perusall 6 due |
 | 18 | Oct 28 | Tue | Historiography of the Conquest | | First one-on-one meetings |
-| 19 | Oct 30 | Thu | **In-Class Essay 2** | | Second interpretive essay |
+| 19 | Oct 30 | Thu | | | |
 | 20 | Nov 4 | Tue | Citation workshop; **Historiography Paper Due** | | |
-| 21 | Nov 6 | Thu | Primary Document Workshop | | |
-| 22 | Nov 11 | Tue | Women and gender | | |
-| 23 | Nov 13 | Thu | **Primary Document Analysis First Submission Due** | | |
-| 24 | Nov 18 | Tue | Race and empire | | |
-| 25 | Nov 20 | Thu | Legacy and Memory | | |
-| 26 | Nov 25 | Tue | Modern Interpretations and Debate | | |
+| 21 | Nov 6 | Thu | **Lab 5** | | Lab 5, Perusall 7 due |
+| 22 | Nov 11 | Tue | Primary Document Workshop | | |
+| 23 | Nov 13 | Thu | **Lab 6** | | Lab 6, **Primary Document Analysis First Submission Due** |
+| 24 | Nov 18 | Tue | Women and gender | | |
+| 25 | Nov 20 | Thu | Race and empire | | Perusall 8 due |
+| 26 | Nov 25 | Tue | Legacy and Memory | | |
 | - | Nov 27 | Thu | **NO CLASS** | | Thanksgiving break |
-| 27 | Dec 2 | Tue | Remembering conquest; Student Presentations | | Second one-on-one meetings |
+| 27 | Dec 2 | Tue | **In-Class Essay 2** | | Second interpretive essay, Second one-on-one meetings |
 | 28 | Dec 4 | Thu | Course Synthesis and Review | | **Primary Document Analysis Revision Due** |
 | Final | TBD | - | **Final Essay Due** | | During finals week (Dec 8-12) |
 
