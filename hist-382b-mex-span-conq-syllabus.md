@@ -1,4 +1,4 @@
-# HIST382A/LACS380S Mexico: Spanish Conquest
+# HIST382A/MDVL380C/LACS380S Mexico: Spanish Conquest
 
 General Education: C - Composition, N - Social Science, I - Information Literacy, T - Critical Thinking
 
@@ -32,11 +32,28 @@ This course is a 4-credit course, which means that in addition to the scheduled 
 
 You will attend two 20-minute one-on-one meetings with the instructor to discuss your term paper progress. These meetings are worth 1.5% each and are scheduled for weeks 11 and 16. The meetings will be scheduled outside of class time during regular office hours or at another time during the week that fits the schedules of both students and the instructor. Meetings can be held in-person or via Zoom based on mutual preference and availability.
 
+**Meeting Schedule:**
+- First one-on-one meeting: October 28
+- Second one-on-one meeting: December 2
+
 The meetings provide an opportunity to discuss your research direction, address questions about your primary document analysis, and receive personalized feedback on your work.
 
 ### Perusall Reading Assignments (12% total)
 
 Readings will be accessed through Brightspace and must be read by 9 AM on Perusall, an online annotation platform that encourages student reading engagement. Reading assignments are due by 9 AM on the day shown in the course schedule. Perusall is graded as follows:
+
+**Perusall Due Dates:**
+
+- Perusall 1 due: August 28
+- Perusall 2 due: September 9
+- Perusall 3 due: September 16
+- Perusall 4 due: October 7
+- Perusall 5 due: October 16
+- Perusall 6 due: October 23
+- Perusall 7 due: October 9
+- Perusall 8 due: October 23
+
+**Grading Criteria:**
 
 - **To get 80%**: Read the text carefully and fully within Perusall; complete the assignment before 9 AM deadline; read actively (minimum of one minute/page).
 - **To get another 40%**: Annotate the assigned text(s) within Perusall with thoughtful questions and comments throughout the entire reading; answer or comment upon other students' contributions; classify comments with hashtags. Target one comment per five pages.
@@ -46,11 +63,25 @@ Students who read fully and write thoughtful comments can score as much as 130%.
 
 ### In-Class Labs (25% total)
 
-You will complete 6 in-class labs with the lowest score dropped (5 of 6 count toward final grade). Each lab is worth 5% and will involve hands-on engagement with primary sources, historical analysis exercises, or research skill development. Labs will build from concepts introduced in previous meetings of regular class time. Labs are completed using Respondus LockDown Browser during the 90-minute class period and cannot be made up if missed.
+You will complete 6 in-class labs with the lowest score dropped (5 of 6 count toward final grade). Each lab is worth 5% and will involve hands-on engagement with primary sources, historical analysis exercises, or research skill development. Labs will build from concepts introduced in previous meetings of regular class time. In many cases, labs can only be successfully completed if students have read secondary and/or primary sources cited by the lab question(s). Labs are completed using Respondus LockDown Browser during the 90-minute class period and cannot be made up if missed.
+
+**Lab Schedule:**
+
+- Lab 1: September 4 -- Cortès's Letters
+- Lab 2: September 11 -- The Florentine Codex
+- Lab 3: September 18 -- The Return of Quetzalcoatl
+- Lab 4: September 30 -- Bartolomè de las Casas
+- Lab 5: October 14 -- Historiography
+- Lab 6: October 21 -- The Problem Statement, Thesis and Argument
 
 ### In-Class Interpretive Essays (20% total)
 
 Students will write two in-class essays, each worth 10% of your final grade. You will have 90 minutes of class time to write each essay. Essays will be completed in our classroom during class time using Respondus LockDown Browser.
+
+**Essay Due Dates:**
+
+- First interpretive essay: September 25
+- Second interpretive essay: October 30
 
 The essay questions will be made available to students several days before the in-class essay and will ask you to think broadly and critically about a defined collection of readings that you have already read and commented upon in Perusall. You may bring printed or handwritten notes to assist with composition. Notes must be on paper and, if multiple sheets are used, must be stapled together or compiled in a notebook or binder. Only point-form notes, outlines, citations, and similar textual items are permitted; notes written in prose are NOT allowed. All notes will be collected by the instructor at the completion of the assignment.
 
@@ -58,25 +89,37 @@ The essay questions will be made available to students several days before the i
 
 This assignment asks you to write a focused historiographical analysis related to your term paper topic. In 90 minutes of supervised class time, you will compose a paper that surveys and analyzes how historians have interpreted a specific aspect of the Spanish Conquest of Mexico that relates to your chosen primary document.
 
+**Due Date: November 4**
+
 The historiography paper should demonstrate your understanding of how historical scholarship has evolved over time, identify key debates and interpretive frameworks among historians, and position your own research within these scholarly conversations. You will conduct research and prepare your analysis outside of class, but the actual writing will occur during the designated class period using Respondus LockDown Browser.
 
 You may bring printed or handwritten notes to assist with composition. Notes must be on paper and, if multiple sheets are used, must be stapled together or compiled in a notebook or binder. Only point-form notes, outlines, citations, and similar textual items are permitted; notes written in prose are NOT allowed. All notes will be collected by the instructor at the completion of the assignment.
+
+You are also allowed to bring print copies (photocopies or published print materials) of any primary and secondary sources used in your research. These materials will be turned in at the end of the assignment and returned to the student ASAP.
 
 ### Primary Document Analysis (10% total)
 
 In 90 minutes of supervised class time, you will write an analysis of a primary document from the Spanish Conquest period. This assignment calls for sustained analysis of your chosen primary source, demonstrating how this document can illuminate broader historical questions about the conquest.
 
+**Due Date: November 13**
+
 Your analysis should introduce and contextualize the primary source, analyze its content and significance, and build an argument about what this source reveals about the conquest period. All research and preparation will be conducted outside of class, but the composition will occur during the designated class session using Respondus LockDown Browser.
 
 You may bring printed or handwritten notes to assist with composition. Notes must be on paper and, if multiple sheets are used, must be stapled together or compiled in a notebook or binder. Only point-form notes, outlines, citations, and similar textual items are permitted; notes written in prose are NOT allowed. All notes will be collected by the instructor at the completion of the assignment.
 
+You are also allowed to bring print copies (photocopies or published print materials) of any primary and secondary sources used in your research. These materials will be turned in at the end of the assignment and returned to the student ASAP.
+
 ### Final Interpretive Essay (20% total)
 
-During the three-hour final exam period, you will write a comprehensive interpretive essay that synthesizes your understanding of the Spanish Conquest through the lens of your semester-long research. This essay should demonstrate your mastery of course themes, your ability to use primary sources effectively, and your capacity to engage with historical arguments.
+During the three-hour final exam period, you will write a comprehensive interpretive essay that formulates and defends a historical argument about some aspect of the Spanish Conquest substantiated by the primary and secondary documents consulted during your semester-long research. This essay should demonstrate your ability to define a historical problem, to use primary sources effectively, to formulate and defend a thesis, and to engage with historical debate and uncertainty.
+
+**Due Date: During finals week (December 8-12)**
 
 The final essay represents the culmination of your term paper research and should present a sophisticated historical argument supported by evidence from your primary document analysis and broader course materials. All preparation and research will be conducted throughout the semester, with the writing completed during the final exam session using Respondus LockDown Browser.
 
 You may bring printed or handwritten notes to assist with composition. Notes must be on paper and, if multiple sheets are used, must be stapled together or compiled in a notebook or binder. Only point-form notes, outlines, citations, and similar textual items are permitted; notes written in prose are NOT allowed. All notes will be collected by the instructor at the completion of the assignment.
+
+You are also allowed to bring print copies (photocopies or published print materials) of any primary and secondary sources used in your research. These materials will be turned in at the end of the assignment and returned to the student ASAP.
 
 ## SCHEDULE
 
@@ -218,6 +261,8 @@ Students will:
 All written composition (in-class essays, historiography paper, primary document analysis, and final interpretive essay) will be completed during class time or the scheduled final exam period. Research and planning for these assignments should be carried out outside of class time, but the actual writing will occur in a supervised classroom environment.
 
 All written assignments will be submitted using **Respondus LockDown Browser**, a secure browser application that prevents access to other websites, applications, or resources during the writing process. This ensures academic integrity and creates a fair testing environment for all students.
+
+**Grading Policy for Respondus LockDown Browser Assignments**: Assignments submitted through Respondus LockDown Browser will not be assessed based upon the eloquence, grammar, or spelling of written text, provided that the written text can be understood. Assessment will focus on content, historical analysis, argument development, and use of evidence.
 
 ### Course Materials Access
 
