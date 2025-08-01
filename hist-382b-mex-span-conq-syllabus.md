@@ -97,13 +97,17 @@ You may bring printed or handwritten notes to assist with composition. Notes mus
 
 You are also allowed to bring print copies (photocopies or published print materials) of any primary and secondary sources used in your research. These materials will be turned in at the end of the assignment and returned to the student ASAP.
 
+
 ### Primary Document Analysis (10% total)
 
 In 90 minutes of supervised class time, you will write an analysis of a primary document from the Spanish Conquest period. This assignment calls for sustained analysis of your chosen primary source, demonstrating how this document can illuminate broader historical questions about the conquest.
 
-**Due Date: November 13**
+**First Submission Due Date: November 13**
 
-Your analysis should introduce and contextualize the primary source, analyze its content and significance, and build an argument about what this source reveals about the conquest period. All research and preparation will be conducted outside of class, but the composition will occur during the designated class session using Respondus LockDown Browser.
+
+After the first submission (completed in class using Respondus LockDown Browser), the instructor will transfer your original submission to a Google Doc, provide written feedback, and share the document with you. You are required to revise your paper directly in the same Google Doc. When your revision is complete, you must upload the revised Google Doc to the appropriate submission module in Brightspace by **December 4**.
+
+Your analysis should introduce and contextualize the primary source, analyze its content and significance, and build an argument about what this source reveals about the conquest period. All research and preparation will be conducted outside of class, but the composition will occur during the designated class session using Respondus LockDown Browser. The revision should demonstrate thoughtful engagement with the instructor's feedback and show clear improvement in argumentation, analysis, and clarity. Note: The revision process and final submission for this assignment are completed in Google Docs and Brightspace, not in Respondus LockDown Browser.
 
 You may bring printed or handwritten notes to assist with composition. Notes must be on paper and, if multiple sheets are used, must be stapled together or compiled in a notebook or binder. Only point-form notes, outlines, citations, and similar textual items are permitted; notes written in prose are NOT allowed. All notes will be collected by the instructor at the completion of the assignment.
 
@@ -152,13 +156,13 @@ You are also allowed to bring print copies (photocopies or published print mater
 | 20 | Nov 4 | Tue | Citation workshop; **Historiography Paper Due** | | |
 | 21 | Nov 6 | Thu | Primary Document Workshop | | |
 | 22 | Nov 11 | Tue | Women and gender | | |
-| 23 | Nov 13 | Thu | **Primary Document Analysis Due** | | |
+| 23 | Nov 13 | Thu | **Primary Document Analysis First Submission Due** | | |
 | 24 | Nov 18 | Tue | Race and empire | | |
 | 25 | Nov 20 | Thu | Legacy and Memory | | |
 | 26 | Nov 25 | Tue | Modern Interpretations and Debate | | |
 | - | Nov 27 | Thu | **NO CLASS** | | Thanksgiving break |
 | 27 | Dec 2 | Tue | Remembering conquest; Student Presentations | | Second one-on-one meetings |
-| 28 | Dec 4 | Thu | Course Synthesis and Review | | |
+| 28 | Dec 4 | Thu | Course Synthesis and Review | | **Primary Document Analysis Revision Due** |
 | Final | TBD | - | **Final Essay Due** | | During finals week (Dec 8-12) |
 
 ### Important Dates
@@ -260,7 +264,9 @@ Students will:
 
 All written composition (in-class essays, historiography paper, primary document analysis, and final interpretive essay) will be completed during class time or the scheduled final exam period. Research and planning for these assignments should be carried out outside of class time, but the actual writing will occur in a supervised classroom environment.
 
-All written assignments will be submitted using **Respondus LockDown Browser**, a secure browser application that prevents access to other websites, applications, or resources during the writing process. This ensures academic integrity and creates a fair testing environment for all students.
+**Submission Policy:**
+- All written assignments will be submitted using **Respondus LockDown Browser**, a secure browser application that prevents access to other websites, applications, or resources during the writing process. This ensures academic integrity and creates a fair testing environment for all students.
+- **Exception:** The revision of the Primary Document Analysis will be completed in Google Docs (with instructor feedback) and the final revised document will be uploaded to the appropriate Brightspace assignment module, not through Respondus LockDown Browser.
 
 **Grading Policy for Respondus LockDown Browser Assignments**: Assignments submitted through Respondus LockDown Browser will not be assessed based upon the eloquence, grammar, or spelling of written text, provided that the written text can be understood. Assessment will focus on content, historical analysis, argument development, and use of evidence.
 

@@ -1,11 +1,11 @@
-# HIST382A/LACS380S Mexico: Spanish Conquest
+# HIST382A/MDVL380C/LACS380S Mexico: Spanish Conquest
 
 ## Fall 2025 - Binghamton University
 
 ## Course Information
 
 - **Course Title**: Mexico: Spanish Conquest
-- **Course Numbers**: HIST382A / LACS380S
+- **Course Numbers**: HIST382A / LACS380S / MDVL380C
 - **Credits**: 4 credits
 - **Meeting Times**: Tuesdays and Thursdays, 3:15 pm - 4:45 pm
 - **Location**: FA 342
