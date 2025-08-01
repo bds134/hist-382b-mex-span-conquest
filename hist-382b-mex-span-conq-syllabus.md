@@ -42,11 +42,11 @@ Readings will be accessed through Brightspace and must be read by 9 AM on Perusa
 - **To get another 40%**: Annotate the assigned text(s) within Perusall with thoughtful questions and comments throughout the entire reading; answer or comment upon other students' contributions; classify comments with hashtags. Target one comment per five pages.
 - **To get another 10%**: Write an annotation that elicits a student response.
 
-Students who read fully and write thoughtful comments can score as much as 130%. A percentage between 100-130% receives full credit (1 point). Lower percentages receive proportional grades.
+Students who read fully and write thoughtful comments can score as much as 130%. A percentage between 100-130% receives full credit (1.5 points). Lower percentages receive proportional grades.
 
 ### In-Class Labs (25% total)
 
-You will complete 6 in-class labs with the lowest score dropped (5 of 6 count toward final grade). Each lab is worth 5% and will involve hands-on engagement with primary sources, historical analysis exercises, or research skill development. Labs are completed during the 90-minute class period and cannot be made up if missed.
+You will complete 6 in-class labs with the lowest score dropped (5 of 6 count toward final grade). Each lab is worth 5% and will involve hands-on engagement with primary sources, historical analysis exercises, or research skill development. Labs will build from concepts introduced in previous meetings of regular class time. Labs are completed using Respondus LockDown Browser during the 90-minute class period and cannot be made up if missed.
 
 ### In-Class Interpretive Essays (20% total)
 
@@ -164,7 +164,7 @@ The Writing Center provides services to help you improve your writing. The Cente
 
 If you have a disability that may require an accommodation for taking this course, please contact Services for Students with Disabilities (607.777.2686). Students who need accommodation should present an SSD authorization letter and contact me to discuss their specific needs. All discussions will remain confidential. Accommodations cannot be made retroactively.
 
-**Extended Time Accommodations**: Students with approved extended time accommodations will complete all written assignments (in-class interpretive essays, historiography paper, primary document analysis, and final interpretive essay) at the University Testing Center. These students should coordinate with both the instructor and the Testing Center to schedule their writing sessions. The same Respondus LockDown Browser requirements apply for all testing center sessions.
+**Extended Time Accommodations**: Students with approved extended time accommodations will complete all written assignments (labs, in-class interpretive essays, historiography paper, primary document analysis, and final interpretive essay) at the University Testing Center. These students should coordinate with both the instructor and the Testing Center to schedule their writing sessions. The same Respondus LockDown Browser requirements apply for all testing center sessions.
 
 ## LEARNING OUTCOMES
 
@@ -266,19 +266,22 @@ Students are responsible for ensuring their laptops are compatible with and can 
 
 ## TEXTBOOKS
 
-There is no textbook for this course. All readings are available on Perusall via Brightspace.
+There is no textbook for this course. All readings will be read on Perusall via Brightspace and can also be consulted in the course github repository.
 
 ## ATTENDANCE POLICY
 
-Students are strongly encouraged to attend each class meeting, as we will be covering content crucial to your understanding of Mexican history and the Spanish Conquest. While marks are not given specifically for attendance or participation, regular attendance is essential for academic success in this course.
+Students are strongly encouraged to attend each class meeting, as we will be covering content crucial to your understanding of Mexican history and the Spanish Conquest. Regular class meetings will explain and demonstrate key concepts and ideas that will allow students to succeed in labs and essays. While marks are not given specifically for attendance or participation, regular attendance is essential for academic success in this course.
 
 **Mandatory Attendance for Graded Activities**: You must be present in class to complete:
 
 - In-class labs (6 total, with lowest score dropped)
 - In-class interpretive essays (2 total)
+- In-class Historiography Paper
+- In-class Primary Document Analysis
+- 
 
 **Note**: One-on-one meetings with the instructor are scheduled outside of class time during office hours or at mutually convenient times, and can be conducted in-person or via Zoom.
 
 **Note for Students with Accommodations**: Students with extra-time accommodations will complete their written assignments (interpretive essays, historiography paper, primary document analysis, and final essay) at the University Testing Center rather than in the regular classroom.
 
-Missing these sessions will result in a zero for that particular assignment, as there are no makeup opportunities for in-class activities. The course is designed around active engagement with primary sources, discussions of complex historical interpretations, and collaborative learning that cannot be replicated outside the classroom environment.
+Missing these sessions will result in a zero for that particular assignment, as there are no makeup opportunities for in-class activities unless the absence is documented with a doctor's note. In these rare cases, students will complete the assignment at the University Testing Center. The course is designed around active engagement with primary sources, discussions of complex historical interpretations, and collaborative learning that cannot be replicated outside the classroom environment.
